@@ -5,6 +5,6 @@
 4. The  [SVD.py](./SVD.py) is used to calculate a homogenous matrix between four points.
 
 
-## Foloowing images show the output of the programs.
+## Following images show the output of the programs.
 ![Curve fitting output](./Output_images/Curve_fitting.png)
 ![Curve fitted to the path of the ball](./Output_images/Path_fitting.png)
