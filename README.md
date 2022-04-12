@@ -12,3 +12,6 @@ This is perception for Autonomous Robotics - ENPM 673 - Graduate Course at the U
 ## Histogram Equalaization
 1. The following folder contains files in which histogram equalization.
 2. Adaptive histogram equalization is also performed.
+
+## Image stitching
+1. The following folder contains files and code for stitching two images.
