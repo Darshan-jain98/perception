@@ -18,3 +18,6 @@ This is perception for Autonomous Robotics - ENPM 673 - Graduate Course at the U
 
 ## Camera calibration
  - The folder contains code for calibrating a camera given the coordinates information.
+
+## Stereo Visiom
+ - The folder contains dataset on which stereo vision is performed and the output for each dataset.
